@@ -1,0 +1,26 @@
+.navbar,
+.card-body, 
+.info{
+    background-color: #6f42c1;/*#7747a7;/*#4f5acf;*/
+}
+.nav-link, 
+.card-body, 
+.info{
+    color: white;
+}
+.text{
+    color: #6f42c1;
+}
+.card{
+    border: none;
+}
+.btn{
+    width: 100%;
+    background-color: #6f42c1;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+
